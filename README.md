@@ -6,3 +6,4 @@ If you are intersted in using tor to scrape then follow this guide before you ru
 
 The final results for the city of Boston can be found in total.csv. Around 80,000 of the 130,000 sold homes in Boston on Redfin were scraped.
 
+To run the scraper, run AddressClustering, BulkScrape, and GbgFinder, and then BulkScraper.
